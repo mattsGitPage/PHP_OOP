@@ -147,5 +147,5 @@ class ChinaChair extends AbstractChair{
 }
 
 //include the test cases for scope issues
-include("TestAbstractFactory.php");
+include("TEST\TestAbstractFactory.php");
 

@@ -18,6 +18,9 @@
   <ItemGroup>
     <Compile Include="AbstractFurnitureFactory.php" />
     <Compile Include="index.php" />
-    <Compile Include="TestAbstractFactory.php" />
+    <Compile Include="TEST\TestAbstractFactory.php" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="TEST\" />
   </ItemGroup>
 </Project>
