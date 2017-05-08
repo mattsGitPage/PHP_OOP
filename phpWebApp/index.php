@@ -4,5 +4,9 @@ echo "testing abstract factory";
 
 include("AbstractFurnitureFactory.php");
 
+echo "<br><br><br>";
+echo "testing singleton pattern <br>";
+
+include("Singleton.php");
 
 ?>
