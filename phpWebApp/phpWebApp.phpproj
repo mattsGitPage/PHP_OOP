@@ -17,6 +17,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AbstractFurnitureFactory.php" />
+    <Compile Include="Builder.php" />
     <Compile Include="index.php" />
     <Compile Include="Singleton.php" />
     <Compile Include="TEST\TestAbstractFactory.php" />

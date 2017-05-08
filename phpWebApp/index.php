@@ -9,4 +9,7 @@ echo "testing singleton pattern <br>";
 
 include("Singleton.php");
 
+echo"<br><br><br>";
+include("Builder.php");
+
 ?>
