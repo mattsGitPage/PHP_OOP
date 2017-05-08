@@ -20,6 +20,7 @@
     <Compile Include="Builder.php" />
     <Compile Include="index.php" />
     <Compile Include="Singleton.php" />
+    <Compile Include="TEST\BuilderTest.php" />
     <Compile Include="TEST\TestAbstractFactory.php" />
     <Compile Include="TEST\TestSingleton.php" />
   </ItemGroup>

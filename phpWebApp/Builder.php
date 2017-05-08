@@ -105,13 +105,6 @@ class HTMLPageDirector extends Director {
     }
 }
 
-echo 'testing builder pattern<br>';
-
-$pageBuilder = new HTMLPageBuilder();
-$pageDirector = new HTMLPageDirector($pageBuilder);
-$pageDirector->buildPage();
-$page = $pageDirector->GetPage();
-echo $page->showPage();
-
+include("TEST\BuilderTest.php");
 
 ?>
